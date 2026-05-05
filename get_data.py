@@ -42,7 +42,6 @@ def get_defense_stats(year, season_type='Regular Season', per_mode='PerGame', de
     print(f"✅ Saved to {full_path}")
 
 if __name__ == "__main__":
-    # The Years you requested
     YEARS = range(2019, 2026) # 2019 to 2025 (which becomes 25-26)
     
     # The Categories available
